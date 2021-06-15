@@ -1,0 +1,16 @@
+.added {
+  color: green;
+  border: 5px;
+  padding: 10px;
+  background: lightgray;
+  border-style: solid;
+  border-color: green;
+}
+.error {
+  color: red;
+  border: 5px;
+  padding: 10px;
+  background: lightgray;
+  border-style: solid;
+  border-color: red;
+}
